@@ -1,0 +1,16 @@
+C:\Users\nk_nhat\Desktop\App_Crawler\App_Crawler\bin\Debug\App_Crawler.exe.config
+C:\Users\nk_nhat\Desktop\App_Crawler\App_Crawler\bin\Debug\App_Crawler.exe
+C:\Users\nk_nhat\Desktop\App_Crawler\App_Crawler\bin\Debug\App_Crawler.pdb
+C:\Users\nk_nhat\Desktop\App_Crawler\App_Crawler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\nk_nhat\Desktop\App_Crawler\App_Crawler\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nk_nhat\Desktop\App_Crawler\App_Crawler\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\nk_nhat\Desktop\App_Crawler\App_Crawler\bin\Debug\HtmlAgilityPack.xml
+C:\Users\nk_nhat\Desktop\App_Crawler\App_Crawler\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nk_nhat\Desktop\App_Crawler\App_Crawler\obj\Debug\App_Crawler.csprojAssemblyReference.cache
+C:\Users\nk_nhat\Desktop\App_Crawler\App_Crawler\obj\Debug\App_Crawler.Form1.resources
+C:\Users\nk_nhat\Desktop\App_Crawler\App_Crawler\obj\Debug\App_Crawler.Properties.Resources.resources
+C:\Users\nk_nhat\Desktop\App_Crawler\App_Crawler\obj\Debug\App_Crawler.csproj.GenerateResource.cache
+C:\Users\nk_nhat\Desktop\App_Crawler\App_Crawler\obj\Debug\App_Crawler.csproj.CoreCompileInputs.cache
+C:\Users\nk_nhat\Desktop\App_Crawler\App_Crawler\obj\Debug\App_Crawler.csproj.CopyComplete
+C:\Users\nk_nhat\Desktop\App_Crawler\App_Crawler\obj\Debug\App_Crawler.exe
+C:\Users\nk_nhat\Desktop\App_Crawler\App_Crawler\obj\Debug\App_Crawler.pdb
