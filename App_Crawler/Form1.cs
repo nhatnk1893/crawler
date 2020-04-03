@@ -29,8 +29,10 @@ namespace App_Crawler
         private void button1_Click(object sender, EventArgs e)
         {
             startCrawler();
-            dataGridView1.DataSource = books;
-            dataGridView1.DataSource = books;
+            foreach (var book in books)
+            {
+                dataGridView1.Rows.Add(book.Name, book.Url);
+            }
         }
 
         private static void startCrawler()
